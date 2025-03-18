@@ -10,6 +10,7 @@ Provides interactive stock price analysis and forecasting.<br>
 ***Technologies Used:*** Dash, Plotly, yFinance, Pandas, and Scikit-Learn.<br>
 
 **Components:** <br>
+
 ***Stock Code Input:*** Enter and submit a stock code.<br>
 
 ***Date Range Picker:*** Select a date range for historical data.<br>
