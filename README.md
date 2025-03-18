@@ -2,7 +2,7 @@
 ### Purpose
 
 Provides interactive stock price analysis and forecasting.<br>
-*Key Features:* Real-time stock price retrieval, technical indicators visualization, and stock price forecasting.<br>
+***Key Features:*** Real-time stock price retrieval, technical indicators visualization, and stock price forecasting.<br>
 
 ### Overview
 
