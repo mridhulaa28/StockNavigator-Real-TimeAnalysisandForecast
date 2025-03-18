@@ -1,10 +1,12 @@
 ## StockNavigator-Real-Time Analysis and Forecast
 ### Purpose 
+
+
 Provides interactive stock price analysis and forecasting.<br>
 *Key Features:* Real-time stock price retrieval, technical indicators visualization, and stock price forecasting.<br>
 
-**Overview**<br>
-*Technologies Used:* Dash, Plotly, yFinance, Pandas, and Scikit-Learn.<br>
+### Overview
+**Technologies Used:** Dash, Plotly, yFinance, Pandas, and Scikit-Learn.<br>
 **Components:**<br>
 *Stock Code Input:* Enter and submit a stock code.<br>
 *Date Range Picker:* Select a date range for historical data.<br>
@@ -15,6 +17,6 @@ Provides interactive stock price analysis and forecasting.<br>
 *Forecasting:* Predicts future stock prices with performance metrics (MAE, MSE, RMSE, R²).<br>
 
 
-**Conclusion**<br>
+### Conclusion
 StockNavigator combines stock price data, technical analysis, and forecasting in a user-friendly interface and provides insights for better market analysis and forecasting.<br>
 
