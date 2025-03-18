@@ -1,6 +1,6 @@
 ## StockNavigator-Real-Time Analysis and Forecast
-📌 **Purpose**<br>
-Stock Dash App: Provides interactive stock price analysis and forecasting.<br>
+### Purpose 
+Provides interactive stock price analysis and forecasting.<br>
 *Key Features:* Real-time stock price retrieval, technical indicators visualization, and stock price forecasting.<br>
 
 **Overview**<br>
